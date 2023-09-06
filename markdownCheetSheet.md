@@ -151,25 +151,13 @@ These elements extend the basic syntax by adding additional features. Not all Ma
     <tr>
       <td><a href="/extended-syntax/#emoji">Emoji</a><br>(see also <a href="/extended-syntax/#copying-and-pasting-emoji">Copying and Pasting Emoji</a>)</td>
       <td><code>
-        That is so funny! :joy:
+        That is so funny! :smiley:
       </code></td>
     </tr>
     <tr>
       <td><a href="/extended-syntax/#highlight">Highlight</a></td>
       <td><code>
         I need to highlight these ==very important words==.
-      </code></td>
-    </tr>
-    <tr>
-      <td><a href="/extended-syntax/#subscript">Subscript</a></td>
-      <td><code>
-        H~2~O
-      </code></td>
-    </tr>
-    <tr>
-      <td><a href="/extended-syntax/#superscript">Superscript</a></td>
-      <td><code>
-        X^2^
       </code></td>
     </tr>
   </tbody>
