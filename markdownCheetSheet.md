@@ -19,6 +19,7 @@
 | kill [signal or option(s)] PID(s)|terminate stalled processes|-p|
 |exit |Exit out of a home directory|none|
 |locate [option(s)] file_name(s)|Locate a specific file or directory|-q, -n, -i|
+
 # Markdown
 ## Basic Syntax
 
