@@ -33,7 +33,7 @@
   <tbody>
     <tr>
       <td><a href="/basic-syntax/#headings">Heading</a></td>
-      <td><code># H1<br>
+      <td><code> # H1<br>
           ## H2<br>
           ### H3</code></td>
     </tr>
